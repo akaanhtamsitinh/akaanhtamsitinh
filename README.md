@@ -16,6 +16,6 @@ Hi there 👋, I'm Truong Thanh Tam!
 
 🌟 Year: 2021-2025
 
-![Profile Banner](https://raw.githubusercontent.com/akaanhtamsitinh/akaanhtamsitinh/main/anhprofile.jpg)
+![Profile Banner](https://raw.githubusercontent.com/akaanhtamsitinh/akaanhtamsitinh/main/anhprifile1.jpg)
 
 
